@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+bokeh
+altair
+plotly
+ggplot
+pygal

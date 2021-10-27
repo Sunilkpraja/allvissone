@@ -1,0 +1,9 @@
+setup.py
+allvissone/__init__.py
+allvissone/allvissone.py
+allvissone.egg-info/PKG-INFO
+allvissone.egg-info/SOURCES.txt
+allvissone.egg-info/dependency_links.txt
+allvissone.egg-info/requires.txt
+allvissone.egg-info/top_level.txt
+allvissone.egg-info/zip-safe
